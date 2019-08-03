@@ -1,0 +1,118 @@
+<map>
+  <mapitem udchannel="2.1"  newchannel="5106"  callsign="WEATHHD" />
+  <mapitem udchannel="3.1"  newchannel="5107"  callsign="26 KYWDT fcc" />
+  <mapitem udchannel="4.1"  newchannel="5108"  callsign="HLNHD" />
+  <mapitem udchannel="5.1"  newchannel="5104"  callsign="CNNHD" />
+  <mapitem udchannel="6.1"  newchannel="5105"  callsign="6 WPVIDT fcc" />
+  <mapitem udchannel="6.2"  newchannel="6.2"  callsign="6 WPVIDT2 fcc" />
+  <mapitem udchannel="7.1"  newchannel="5025"  callsign="FNCHD" />
+  <mapitem udchannel="8.1"  newchannel="5026"  callsign="FBNHD" />
+  <mapitem udchannel="9.1"  newchannel="5029"  callsign="CNBCHD" />
+  <mapitem udchannel="10.2" newchannel="5031" callsign="34 WCAUDT2 fcc" />
+  <mapitem udchannel="10.1" newchannel="5030" callsign="34 WCAUDT fcc" />
+  <mapitem udchannel="11.1" newchannel="5033" callsign="MNBCHD" />
+  <mapitem udchannel="12.3" newchannel="12.3" callsign="12 WHYYDT3 fcc" />
+  <mapitem udchannel="12.1" newchannel="5034" callsign="12 WHYYDT fcc" />
+  <mapitem udchannel="12.2" newchannel="5035" callsign="12 WHYYDT2 fcc" />
+  <mapitem udchannel="13.2" newchannel="5036" callsign="CSPANHD" />
+  <mapitem udchannel="13.1" newchannel="5037" callsign="BLOOMHD" />
+  <mapitem udchannel="14.1" newchannel="5007" callsign="DSCHD" />
+  <mapitem udchannel="15.1" newchannel="15.1" callsign="IDHD" />
+  <mapitem udchannel="16.1" newchannel="16.1" callsign="MTHD" />
+  <mapitem udchannel="17.3" newchannel="17.3" callsign="17 WPHLDT3 fcc" />
+  <mapitem udchannel="17.2" newchannel="5013" callsign="17 WPHLDT2 fcc" />
+  <mapitem udchannel="17.1" newchannel="5014" callsign="17 WPHLDT fcc" />
+  <mapitem udchannel="18.1" newchannel="5016" callsign="HSTRYHD" />
+  <mapitem udchannel="19.1" newchannel="5017" callsign="VICEHD" />
+  <mapitem udchannel="19.2" newchannel="5018" callsign="OWN" />
+  <mapitem udchannel="20.1" newchannel="20.1" callsign="LIFEMOV" />
+  <mapitem udchannel="21.1" newchannel="21.1" callsign="APLHD" />
+  <mapitem udchannel="22.1" newchannel="5024" callsign="FYISD" />
+  <mapitem udchannel="22.2" newchannel="22.2" callsign="51 WTVE fcc" />
+  <mapitem udchannel="23.1" newchannel="5038" callsign="TRUTVHD" />
+  <mapitem udchannel="24.1" newchannel="5041" callsign="UPHD" />
+  <mapitem udchannel="26.1" newchannel="5045" callsign="EHD" />
+  <mapitem udchannel="27.1" newchannel="5046" callsign="BRAVOHD" />
+  <mapitem udchannel="28.1" newchannel="5047" callsign="AETVHD" />
+  <mapitem udchannel="29.3" newchannel="29.3" callsign="42 WTXFDT3 fcc" />
+  <mapitem udchannel="29.2" newchannel="5049" callsign="42 WTXFDT2 fcc" />
+  <mapitem udchannel="29.1" newchannel="5048" callsign="42 WTXFDT fcc" />
+  <mapitem udchannel="30.1" newchannel="5050" callsign="NBSPP" />
+  <mapitem udchannel="31.1" newchannel="5051" callsign="NBCSPA" />
+  <mapitem udchannel="32.1" newchannel="5052" callsign="MASNHD" />
+  <mapitem udchannel="33.1" newchannel="5053" callsign="MASN2HD" />
+  <mapitem udchannel="34.1" newchannel="5054" callsign="NBCSNHD" />
+  <mapitem udchannel="35.1" newchannel="5055" callsign="ESPNHD" />
+  <mapitem udchannel="36.1" newchannel="5056" callsign="ESPN2HD" />
+  <mapitem udchannel="37.1" newchannel="5057" callsign="ESPNWHD" />
+  <mapitem udchannel="38.1" newchannel="5058" callsign="ESPNUHD" />
+  <mapitem udchannel="39.1" newchannel="5059" callsign="CBSSNHD" />
+  <mapitem udchannel="40.1" newchannel="5060" callsign="BIG10HD" />
+  <mapitem udchannel="41.1" newchannel="5061" callsign="FS1HD" />
+  <mapitem udchannel="42.1" newchannel="5062" callsign="GOLFHD" />
+  <mapitem udchannel="43.1" newchannel="5063" callsign="MLBHD" />
+  <mapitem udchannel="44.1" newchannel="5064" callsign="NBATVHD" />
+  <mapitem udchannel="45.1" newchannel="5065" callsign="NHLNET" />
+  <mapitem udchannel="46.1" newchannel="5066" callsign="NFLHD" />
+  <mapitem udchannel="47.1" newchannel="5067" callsign="TNTHD" />
+  <mapitem udchannel="48.1" newchannel="48.1" callsign="LOOR048" />
+  <mapitem udchannel="48.2" newchannel="48.2" callsign="MTVU" />
+  <mapitem udchannel="49.1" newchannel="49.1" callsign="LOOR049" />
+  <mapitem udchannel="50.2" newchannel="5069" callsign="EWTNHD" />
+  <mapitem udchannel="50.1" newchannel="5068" callsign="POPSD" />
+  <mapitem udchannel="51.2" newchannel="5071" callsign="OVATNHD" />
+  <mapitem udchannel="51.1" newchannel="5070" callsign="OXYGNHD" />
+  <mapitem udchannel="52.1" newchannel="52.1" callsign="LOOR052" />
+  <mapitem udchannel="52.2" newchannel="52.2" callsign="PRGDE" />
+  <mapitem udchannel="53.1" newchannel="5072" callsign="GSNHD" />
+  <mapitem udchannel="53.2" newchannel="5073" callsign="BBCAHD" />
+  <mapitem udchannel="54.1" newchannel="5074" callsign="PARHD" />
+  <mapitem udchannel="55.1" newchannel="5075" callsign="USAHD" />
+  <mapitem udchannel="56.1" newchannel="5076" callsign="TBSHD" />
+  <mapitem udchannel="57.1" newchannel="5077" callsign="32 WPSGDT fcc" />
+  <mapitem udchannel="58.1" newchannel="5078" callsign="SYFYHD" />
+  <mapitem udchannel="59.1" newchannel="5079" callsign="LIFEHD" />
+  <mapitem udchannel="60.1" newchannel="5081" callsign="TLCHD" />
+  <mapitem udchannel="61.1" newchannel="5080" callsign="HGTVD" />
+  <mapitem udchannel="62.1" newchannel="5084" callsign="FOODHD" />
+  <mapitem udchannel="63.1" newchannel="5085" callsign="MTVLIVE" />
+  <mapitem udchannel="64.1" newchannel="5086" callsign="VH1HD" />
+  <mapitem udchannel="65.2" newchannel="5088" callsign="MTV2" />
+  <mapitem udchannel="65.1" newchannel="5087" callsign="MTVHD" />
+  <mapitem udchannel="66.1" newchannel="5089" callsign="BETHD" />
+  <mapitem udchannel="67.1" newchannel="5090" callsign="FREFMHD" />
+  <mapitem udchannel="68.1" newchannel="5091" callsign="UKIDSH" />
+  <mapitem udchannel="69.2" newchannel="69.2" callsign="INSP" />
+  <mapitem udchannel="69.1" newchannel="5092" callsign="TOONHD" />
+  <mapitem udchannel="70.1" newchannel="5093" callsign="NIKHD" />
+  <mapitem udchannel="71.2" newchannel="5095" callsign="DISNHD" />
+  <mapitem udchannel="71.1" newchannel="5094" callsign="FXXHD" />
+  <mapitem udchannel="72.1" newchannel="5096" callsign="OLYHD" />
+  <mapitem udchannel="73.1" newchannel="5097" callsign="CCHD" />
+  <mapitem udchannel="74.1" newchannel="5098" callsign="AMCHD" />
+  <mapitem udchannel="75.1" newchannel="5099" callsign="TCMHD" />
+  <mapitem udchannel="76.1" newchannel="5100" callsign="LIFEMVH" />
+  <mapitem udchannel="77.1" newchannel="5101" callsign="FXHD" />
+  <mapitem udchannel="78.1" newchannel="5103" callsign="HALLHD" />
+  <mapitem udchannel="95.1" newchannel="95.1" callsign="9 WPPTDT fcc" />
+  <mapitem udchannel="95.2" newchannel="95.2" callsign="9 WPPTDT2 fcc" />
+  <mapitem udchannel="18.2" newchannel="5015" callsign="69 WFMZ fcc" />
+  <mapitem udchannel="20.2" newchannel="20.2" callsign="WMCNSD" />
+  <mapitem udchannel="21.2" newchannel="21.2" callsign="65 WUVP fcc" />
+  <mapitem udchannel="96.1" newchannel="96.1" callsign="2 WDPN fcc" />
+  <mapitem udchannel="96.2" newchannel="96.2" callsign="WACPSD" />
+  <mapitem udchannel="97.2" newchannel="97.2" callsign="34 WWSIDT2 fcc" />
+  <mapitem udchannel="23.2" newchannel="23.2" callsign="WFPASD" />
+  <mapitem udchannel="24.2" newchannel="24.2" callsign="NJN" />
+  <mapitem udchannel="97.1" newchannel="97.1" callsign="62 WWSI fcc" />
+  <mapitem udchannel="98.8" newchannel="98.8" callsign="33 WZPALD fcc" />
+  <mapitem udchannel="98.2" newchannel="98.2" callsign="CSPAN2" />
+  <mapitem udchannel="25.2" newchannel="25.2" callsign="CSPAN3" />
+  <mapitem udchannel="26.2" newchannel="26.2" callsign="DYSTR" />
+  <mapitem udchannel="98.9" newchannel="98.9" callsign="WORD" />
+  <mapitem udchannel="99.1" newchannel="99.1" callsign="48 WGTW fcc" />
+  <mapitem udchannel="99.2" newchannel="99.2" callsign="LOGO" />
+  <mapitem udchannel="78.2" newchannel="78.2" callsign="INSP" />
+  <mapitem udchannel="9.2"  newchannel="9.2"  callsign="IONSAT" />
+  <mapitem udchannel="8.2"  newchannel="8.2"  callsign="TVLAND" />
+</map>

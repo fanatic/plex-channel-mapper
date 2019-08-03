@@ -1,0 +1,30 @@
+        <channel id="I6.19612.schedulesdirect.org">
+                <display-name>6 WPVIDT</display-name>
+                <display-name>6.1</display-name>
+                <display-name>6 WPVIDT fcc</display-name>
+                <display-name>WPVIDT</display-name>
+                <display-name>WPVIDT (WPVI-DT)</display-name>
+                <display-name>ABC Affiliate</display-name>
+        </channel>
+        <channel id="I6.43156.schedulesdirect.org">
+                <display-name>6 WPVIDT2</display-name>
+                <display-name>6.2</display-name>
+                <display-name>6 WPVIDT2 fcc</display-name>
+                <display-name>WPVIDT2</display-name>
+                <display-name>WPVIDT2 (WPVI-DT2)</display-name>
+                <display-name>Independent</display-name>
+        </channel>
+        <channel id="I19.70387.schedulesdirect.org">
+                <display-name>19 OWN</display-name>
+                <display-name>19.2</display-name>
+                <display-name>OWN</display-name>
+                <display-name>Oprah Winfrey Network</display-name>
+                <display-name>Satellite</display-name>
+        </channel>
+        <channel id="I19.65732.schedulesdirect.org">
+                <display-name>19 VICEHD</display-name>
+                <display-name>19.1</display-name>
+                <display-name>VICEHD</display-name>
+                <display-name>Viceland HD</display-name>
+                <display-name>Satellite</display-name>
+        </channel>
